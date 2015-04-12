@@ -1,0 +1,48 @@
+body
+{
+	float : left ;
+	background-color: silver;
+	width : 100%;
+	margin : 0px;
+}
+
+header
+{
+	float : left ;
+	background-color: blueviolet;
+	width : 100%;	
+}
+
+nav
+{
+	clear : left;
+	float : left ;
+	background-color: purple;
+	width : 25%;	
+	height : 900px;
+}
+
+#part1
+{
+	float : left ;
+	background-color: cadetblue;
+	width : 25%;	
+	height : 900px;
+	
+}
+
+span
+{
+	float : left;
+	font-size : 25px;
+	margin-left: 123px;
+	margin-top: 17px;
+}
+
+aside
+{
+	float : right ;
+	background-color: violet;
+	width : 25%;	
+	height : 900px;
+}

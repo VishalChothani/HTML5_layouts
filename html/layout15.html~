@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Layout 15</title>
+	<link rel="stylesheet" type="text/css" href="layout15.css" />	
+	
+</head>
+<body>	
+	
+	<section>
+			
+			<nav>
+				<h2 align="center">Nav</h2>
+			</nav>
+			<strong><span>Section</span></strong>
+			<aside>
+		    		<h2 align="center">Aside</h2>
+			</aside>
+
+	</section>
+</body>
+</html>

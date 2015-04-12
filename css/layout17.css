@@ -1,0 +1,61 @@
+body
+{
+	float : left;
+	width : 100%;
+	margin : 0px;
+	background-color : silver;
+}
+
+header
+{
+	float : left;
+	width : 100%;
+	background-color : blueviolet;
+}
+
+section
+{
+	clear : left;
+	float : left;
+	width : 100%;
+	background-color : white;
+	height : 900px;	
+}
+
+
+nav
+{
+	float : left;
+	width : 50%;
+	background-color : purple;
+	height : 450px;	
+}
+
+
+aside
+{
+	float : left;
+	width : 50%;
+	background-color : violet;
+	height : 450px;	
+}
+
+#nav_down
+{
+	clear :left;
+	float : left;
+	width : 50%;
+	background-color : green;
+	height : 450px;	
+}
+
+
+#aside_down
+{
+	float : left;
+	width : 50%;
+	background-color : red;
+	height : 450px;	
+}
+
+

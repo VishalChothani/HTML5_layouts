@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Layout 4</title>
+	<link rel="stylesheet" type="text/css" href="../css/layout4.css" />	
+	
+</head>
+<body>	
+	<header>
+    		<h1 align="center">Header</h1>
+	</header>
+	<section>
+		<article><h2 align="center">Section</h2></article>
+			<aside>
+		    		<h2 align="center">Aside</h2>
+			</aside>
+
+	</section>
+	
+	<footer>
+    		<h2 align="center">Footer</h2>
+	</footer>
+</body>
+</html>

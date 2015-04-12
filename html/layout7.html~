@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Layout 7</title>
+	<link rel="stylesheet" type="text/css" href="layout7.css" />	
+	
+</head>
+<body>	
+	<header>
+    		<h1 align="center">Header</h1>
+	</header>
+	<section>
+			
+			<nav>
+				<h2 align="center">Nav</h2>
+			</nav>
+			<strong><span>Section</span></strong>
+			<aside>
+		    		<h2 align="center">Aside</h2>
+			</aside>
+
+	</section>
+	
+	
+</body>
+</html>

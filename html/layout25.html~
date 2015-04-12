@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Layout 25</title>
+	<link rel="stylesheet" type="text/css" href="../css/layout25.css" />	
+	
+</head>
+<body>	
+	<header>
+    		<h1 align="center">Header</h1>
+	</header>
+	<section>
+		<article>
+			<h2 align="center">Header2</h2>
+		</article>	
+			<nav>
+				<h2 align="center">Nav</h2>
+			</nav>
+			
+			<aside>
+		    		<h2 align="center">Aside</h2>
+			</aside>
+
+	</section>
+	
+	
+</body>
+</html>

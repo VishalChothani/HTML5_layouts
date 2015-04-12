@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Layout 21</title>
+	<link rel="stylesheet" type="text/css" href="../css/layout21.css" />	
+	
+</head>
+<body>	
+	<header>
+    		<h1 align="center">Header</h1>
+	</header>
+	<section>
+			<nav>
+				<h2 align="center">Nav</h2>
+			</nav>
+			<aside>
+		    		<h2 align="center">Aside 1</h2>
+			</aside>
+			<aside id="aside_down">
+		    		<h2 align="center">Aside 2</h2>
+			</aside>
+
+	</section>
+	
+</body>
+</html>

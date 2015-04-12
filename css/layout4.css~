@@ -1,0 +1,92 @@
+body
+{
+	float : left;
+	width : 100%;
+	margin : 0px;
+	background-color : silver;
+}
+
+header
+{
+	float : left;
+	width : 100%;
+	background-color : blueviolet;
+}
+
+section
+{
+	clear : left;
+	float : left;
+	width : 100%;
+	background-color : white;
+	height : 650px;	
+}
+
+article
+{
+	float : left;
+	width : 20%;
+	background-color : purple;
+	height : 650px;	
+}
+
+aside
+{
+	float : left;
+	width : 80%;
+	background-color : violet;
+	height : 650px;	
+}
+
+footer
+{
+	clear : left;
+	float : left;
+	width : 100%;
+	background-color : cadetblue;
+	height : 80px;	
+}
+/*body
+{
+	margin : 0px;
+}
+header
+{
+	background-color : red;
+	height : 100px;	
+}
+
+footer
+{
+	clear: left;
+float: left;
+background-color: blue;
+height: 100px;
+width: 100%;
+
+}
+
+aside
+{
+	
+	margin-left: 1180px;	
+	background-color: green;
+	height: 650px;
+	width: 220px;
+
+}
+
+section
+{
+	clear: left;
+	float: left;
+	background-color: silver;
+	height: 650px;
+}
+
+article
+{
+	float : left;
+	font-size : 50px;
+	width:
+}*/

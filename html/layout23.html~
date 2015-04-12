@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Layout 23</title>
+	<link rel="stylesheet" type="text/css" href="../css/layout23.css" />	
+	
+</head>
+<body>	
+	<header>
+    		<h1 align="center">Header</h1>
+	</header>
+	<section>
+		<div class="section1">
+			<div class="left-section1">
+			</div>
+			<div class="center-section1">
+			</div>
+			<div class="right-section1">
+			</div>
+
+		</div>
+		<div class="section2"></div>
+	</section>
+	
+	<footer>
+    		<h2 align="center">Footer</h2>
+	</footer>
+</body>
+</html>
